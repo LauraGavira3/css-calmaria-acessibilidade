@@ -84,6 +84,11 @@
     padding: 2rem;
 }
 
+input[type="radio"] {
+  margin-right: .8rem; 
+}
+
+
 .container__contato .container__contato--form button {
     height: 4.8rem;
     border: none;
