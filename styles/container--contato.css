@@ -84,9 +84,15 @@
     padding: 2rem;
 }
 
-input[type="radio"] {
-  margin-right: .8rem; 
+.container__contato--inputs--div div {
+  display: flex;
+  align-items: center;
+  gap: .8rem; 
+
+.container__contato--inputs--div input[type="radio"] {
+  margin: 0; 
 }
+
 
 
 .container__contato .container__contato--form button {
